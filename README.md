@@ -1,4 +1,4 @@
-# ARIQ ABDURRAHMAN_G1021036 Tugas-SDA
+# ARIQ ABDURRAHMAN_G1021036 TUGAS-SDA
 keliling layangan
 
 Penjelasan source code
